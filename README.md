@@ -141,7 +141,3 @@ This project demonstrates practical usage of Bash scripting to audit and analyze
 
 ---
 
-![f03a1ba5-e17b-4b0a-8ee3-6f25e84e6147-cover](https://github.com/user-attachments/assets/42ece3c0-fbb4-461b-b577-d817a2ca22b6)
-<img width="800" height="800" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/a0c36d60-114e-4691-a851-dc5058467c9e" />
-
-
